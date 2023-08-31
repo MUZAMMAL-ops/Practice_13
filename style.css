@@ -1,0 +1,43 @@
+.img{
+    width: 150px;
+    background-color: azure;
+    opacity: 50%;
+}
+
+.img_1{
+    width: 150px;
+    background-color: darkslateblue;
+    opacity: 50%;
+
+}
+.img_2{
+    font-size: 50px;
+}
+.img_4{
+    color: darkgrey;
+    font-style: italic;
+}
+.img_5{
+    color: lightblue;
+    font-style: oblique;
+}
+.img_6{
+    background-color: azure;
+}
+.name{
+    background-color: #569874;
+    color: white;
+    padding-left: 20px;
+    width: 240px;
+
+}
+.name_1{
+    background-color: #569874;
+    color: white;
+    padding-left: 20px;
+    opacity: 0.6%;
+
+}
+.tab{
+    margin-left: 250px;
+}
